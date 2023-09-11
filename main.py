@@ -1,1 +1,2 @@
-import discord.py
+# что это такое
+print("eerggghkkk j")
